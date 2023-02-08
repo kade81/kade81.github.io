@@ -17,13 +17,8 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Neuro-Jawor - Gabinet Rehabilitacji Krzysztofa Romanowskiego w Jaworzu, w miejscowości położonej na trasie Bielsko-Biała-Jasienica-Skoczów-Cieszyn ( 10 km od Bielska – Białej i 30 km od Cieszyna) . Gabinet Neuro-Jawor położony jest w malowniczym miejscu u podnóża góry Błatniej, z dala od zgiełku miejskiego co powoduje, że uwaga skupiona jest na działaniach terapeutycznych. Rehabilitacja to nie tylko wykonywanie serii ćwiczeń. Rehabilitacji to przede wszystkim usuwanie dysfunkcji, niwelowanie bólu, praca na strukturze i poprawa stanu funkcjonalnego, a także podnoszenie Pacjenta na wyższy poziom funkcjonowania w życiu codziennym i społecznym oraz zminimalizowanie okresu, w którym życie nie jest zgodne z oczekiwaniami Pacjenta.
-
-Co odróżnia Neuro-Jawor od innych gabinetów rehabilitacyjnych ?
-Indywidualne podejście i praca z Pacjentem ukierunkowana na poprawę jego samodzielności oraz mierzalność efektów terapii. Do porównywania efektów terapeutycznych stosowane są międzynarodowe testy funkcjonalne i motoryczne, które pozwalają między innymi na ocenę poziomu aktywności w życiu codziennym, oceniają ryzyko upadku, czy badają kontrolę tułowia.
-
-Pacjent Neuro-Jawor nie kończy terapii wraz z wyjściem z gabinetu, gdyż dla osiągnięcia sukcesu niezbędne jest kontynuowanie pracy w domu. Pacjent dostaje wytyczne, jakie i w jaki spośób ćwiczenia powinien wykonywać w domu."
+    title: "Neuro-Jawor"
+    text: "Neuro-Jawor - Gabinet Rehabilitacji Krzysztofa Romanowskiego w Jaworzu, w miejscowości położonej na trasie Bielsko-Biała-Jasienica-Skoczów-Cieszyn ( 10 km od Bielska – Białej i 30 km od Cieszyna) . Gabinet Neuro-Jawor położony jest w malowniczym miejscu u podnóża góry Błatniej, z dala od zgiełku miejskiego co powoduje, że uwaga skupiona jest na działaniach terapeutycznych. Rehabilitacja to nie tylko wykonywanie serii ćwiczeń. Rehabilitacji to przede wszystkim usuwanie dysfunkcji, niwelowanie bólu, praca na strukturze i poprawa stanu funkcjonalnego, a także podnoszenie Pacjenta na wyższy poziom funkcjonowania w życiu codziennym i społecznym oraz zminimalizowanie okresu, w którym życie nie jest zgodne z oczekiwaniami Pacjenta. Co odróżnia Neuro-Jawor od innych gabinetów rehabilitacyjnych ? Indywidualne podejście i praca z Pacjentem ukierunkowana na poprawę jego samodzielności oraz mierzalność efektów terapii. Do porównywania efektów terapeutycznych stosowane są międzynarodowe testy funkcjonalne i motoryczne, które pozwalają między innymi na ocenę poziomu aktywności w życiu codziennym, oceniają ryzyko upadku, czy badają kontrolę tułowia. Pacjent Neuro-Jawor nie kończy terapii wraz z wyjściem z gabinetu, gdyż dla osiągnięcia sukcesu niezbędne jest kontynuowanie pracy w domu. Pacjent dostaje wytyczne, jakie i w jaki spośób ćwiczenia powinien wykonywać w domu."
     section: services
     list:
       - title: "E-Commerce"
