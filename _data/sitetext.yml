@@ -65,72 +65,10 @@ en: &DEFAULT_EN
     body: "Magister fizjoterapii pracujący w zawodzie od 2004 roku. W tym samym roku ukończył Policealną Szkołę Fizjoterapii w Bielsku -Białej i uzyskał tytuł Technika Fizjoterapii. Kształcenie kontynuował na studiach magisterskich na Akademii Wychowania Fizycznego w Krakowie i ukończył w 2009 r. obroną pracy magisterskiej „ Reedukacja chodu u chorego po urazie czaszkowo-mózgowym - możliwości oddziaływań terapeutycznych według koncepcji PNF oraz specyfika oceny fizjoterapeutycznej – studium przypadku”. Od 2008 roku prowadzi własną działalność gospodarczą i do 2019 r. współpracował z prywatnym centrum rehabilitacji w Bielsku – Białej. Od 12 lat pracuje głównie z Pacjentami z deficytami neurologicznymi będącymi wynikiem urazu rdzenia kręgowego, udaru mózgu, urazu czaszkowo-mózgowego, SM, SLA, boleriozy i wielu innych chorób o podłożu neurologicznym. Dla zwiększenia skuteczności terapii nieustanne dokształca się na kursach i szkoleniach."
     section: about
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-
-  team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-
+  
   contact:
     title: "Kontakt ze mną"
-    body: "Rehabilitacja Neuro-Jawor
-Krzysztof Romanowski
-Jaworze, ul. Turystyczna 33
-(200m powyżej Hotelu Jawor)
-
-tel. 509339161
-e-mail: rehabilitacja@neuro-jawor.pl
-
-Zapraszamy codziennie od poniedziałku do piątku
+    text: "Rehabilitacja Neuro-Jawor Krzysztof Romanowski Jaworze, ul. Turystyczna 33 (200m powyżej Hotelu Jawor) tel. 509339161 e-mail: rehabilitacja@neuro-jawor.pl Zapraszamy codziennie od poniedziałku do piątku
 8:00 - 20:00
 sobota:
 9:00 - 15:00
