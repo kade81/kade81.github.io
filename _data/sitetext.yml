@@ -121,8 +121,22 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Kontakt ze mną"
+    text: "Rehabilitacja Neuro-Jawor
+Krzysztof Romanowski
+Jaworze, ul. Turystyczna 33
+(200m powyżej Hotelu Jawor)
+
+tel. 509339161
+e-mail: rehabilitacja@neuro-jawor.pl
+
+Zapraszamy codziennie od poniedziałku do piątku
+8:00 - 20:00
+sobota:
+9:00 - 15:00
+Wizyta możliwa tylko po wcześniejszej rejestracji telefonicznej.
+
+Zapewniamy dogodny dojazd, duży parking, ułatwienia dla osób z ograniczonymi możliwościami poruszania się (podjazdy, poręcze)."
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
