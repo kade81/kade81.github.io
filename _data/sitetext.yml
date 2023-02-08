@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Witaj w moim gabinecie rehabilitacji
+    text: Miło mi Ciebie gościć
+    button: Zobacz więcej
     buttonlink: "#services"
 
   services:
