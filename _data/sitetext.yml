@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Witaj w moim gabinecie rehabilitacji
-    text: Miło mi Ciebie gościć
+    title: mgr rehabilitacji Krzysztof Romanowski
+    text: Miło mi Ciebie gościć w moim gabinecie
     button: Zobacz więcej
     buttonlink: "#services"
 
