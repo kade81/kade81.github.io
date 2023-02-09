@@ -77,18 +77,18 @@ Wizyta możliwa tylko po wcześniejszej rejestracji telefonicznej.
 Zapewniamy dogodny dojazd, duży parking, ułatwienia dla osób z ograniczonymi możliwościami poruszania się (podjazdy, poręcze)."
     section: contact
     name: "Name*"
-    name-validation: "Please enter your name."
+    name-validation: "Podaj imię."
     email: "Email*"
-    email-validation: "Please enter your email address."
+    email-validation: "Podaj adres e-mail."
     phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
+    phone-validation: "Podaj numer telefonu."
     message: "Message*"
-    message-validation: "Please enter a message."
+    message-validation: "Wpisz wiadomość."
     subject: "Contact Form Submission"
-    submit: "Send Message"
+    submit: "Wyślij wiadomość"
 
   footer:
-    legal: "Privacy Policy"
+    legal: "Polityka prywatności"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
